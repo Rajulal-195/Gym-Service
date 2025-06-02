@@ -116,7 +116,7 @@ const Footer = () => {
             <ul className="flex flex-col gap-4">
               <li className="flex items-center gap-3">
                 <FaMapMarkerAlt className="text-xl text-red-500" />
-                <span>80/84 Pate Marg Crossing Jaipur Rajasthan </span>
+                <span>80/84 Patel Marg Crossing Jaipur Rajasthan </span>
               </li>
 
               <li className="flex items-center gap-3">

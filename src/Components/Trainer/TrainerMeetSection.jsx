@@ -59,8 +59,7 @@ const TrainerMeetSection = () => {
                 <RoundButton
                   divStyles="border-0 border-red-600"
                   spanStyles="bg-blue-400"
-                  text={<FaTwitter size={20} />}
-                />
+                  text={<FaTwitter size={20} />}/>
                 <RoundButton
                   divStyles="border-0 border-red-600"
                   spanStyles="bg-red-700"

@@ -72,8 +72,7 @@ const ContactForm = () => {
               {/* importing icon here */}
               <FaPhone className="text-4xl mr-3 p-1  cursor-pointer hover:text-red-600" />
               <ul>
-                <li>+1650-243-0000</li>
-                <li>+1234-243-1111</li>
+                <li>+91 894 697 3100</li>
               </ul>
             </div>
             {/* mail */}
@@ -81,8 +80,8 @@ const ContactForm = () => {
               {/* importing icon here */}
               <FaEnvelope className="text-4xl mr-3 p-1  cursor-pointer hover:text-red-600 " />
               <ul>
-                <li>hello@templatesjungle.com</li>
-                <li>info@templatesjungle.com</li>
+                <li>gupta.deepanshu082@gmail.com</li>
+                <li>info@FitPhysique.com</li>
               </ul>
             </div>
             {/* Location */}
@@ -90,8 +89,7 @@ const ContactForm = () => {
               {/* importing icon here */}
               <FaMapMarkerAlt className="text-4xl mr-3 p-1 cursor-pointer hover:text-red-600" />
               <ul>
-                <li>North Melbourne VIC 3051, Australia</li>
-                <li>North Melbourne VIC 3051, Australia</li>
+                <li>80/84 Patel Marg Crossing Jaipur Rajasthan</li>
               </ul>
             </div>
           </div>
