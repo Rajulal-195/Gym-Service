@@ -1,0 +1,13 @@
+.slick-prev, .slick-next {
+  z-index: 10;
+  top: 50%; /* Vertically center the arrows */
+  transform: translateY(-50%); /* Correct for height of arrows */
+}
+
+.slick-prev {
+  left: -10px; /* Adjust as needed */
+}
+
+.slick-next {
+  right: -10px; /* Adjust as needed */
+}
